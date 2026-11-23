@@ -1,0 +1,10 @@
+# 免疫检查点基因（ESCC 免疫治疗提示相关）
+# 每行一个 HGNC gene_name；# 开头为注释，解析时忽略
+CD274
+PDCD1
+LAG3
+TIGIT
+CTLA4
+PDCD1LG2
+HAVCR2
+BTLA

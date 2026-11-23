@@ -1,0 +1,9 @@
+# 潜在靶向 / ADC 药物靶点基因（ESCC 可干预靶点线索）
+EGFR
+ERBB2
+FGFR1
+FGFR2
+MET
+TACSTD2
+NECTIN4
+VEGFA

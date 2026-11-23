@@ -1,0 +1,20 @@
+# ESCC 核心驱动与耐药相关基因（按功能类别分组，供分维度报告）
+# —— 细胞周期 / 增殖 ——
+CCND1
+CDK4
+CDK6
+MKI67
+E2F1
+# —— 氧化应激 / NRF2 通路（放化疗耐药相关）——
+NFE2L2
+NQO1
+GCLC
+GCLM
+# —— 鳞状分化与干性 ——
+SOX2
+TP63
+KRT17
+# —— EMT 与侵袭 ——
+VIM
+SNAI1
+TGFB1

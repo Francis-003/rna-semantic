@@ -1,0 +1,14 @@
+# ── 数据与元数据（仅上传代码，数据由用户从 GDC 自行获取）──
+RNA/
+outputs/
+tcga_metadata_sample_sheet_ESCC_RNA_STAR_counts.tsv
+
+# ── 环境与缓存 ──
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# ── Agent 会话产物（非项目内容）──
+.mimosa/
+.zcode/

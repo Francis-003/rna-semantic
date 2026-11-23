@@ -1,0 +1,6 @@
+# TCGA-ESCC bulk RNA-seq 临床语义化管线依赖
+# 核心科学计算包由系统环境提供，此处列出以便复现；安装到项目 .venv 即可。
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+# 注：LLM 润色使用 Python 标准库 urllib 调用 OpenAI 兼容接口，无需 openai 依赖。
